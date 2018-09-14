@@ -53,6 +53,7 @@
 .header {
     color: #fff;
     text-align: center;
+    background:url("../images/pb_demo_header.jpg");
 }
 
 .fullscreen .header {
