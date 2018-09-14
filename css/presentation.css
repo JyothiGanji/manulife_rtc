@@ -54,6 +54,10 @@
     color: #fff;
     text-align: center;
     background:url("../images/pb_demo_header.jpg");
+	background-repeat: repeat-x;
+    background-position: center 0px;
+    z-index: 3;
+    width: auto;
 }
 
 .fullscreen .header {
