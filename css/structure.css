@@ -866,7 +866,7 @@ div.promo__item.promo__item--bottom {
     .header,
     .main,
     .footer {
-        width: 1230px;
+        /*width: 1230px;*/
     }
 
     .top-wrapper--no-cta .header,
