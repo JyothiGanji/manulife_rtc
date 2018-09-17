@@ -712,7 +712,7 @@ border-bottom-right-radius: 6%;
 
 .footer {
     color: #3d3d3d;
-    background:url("../images/footer-background.jpg");
+    background-image:url("../images/footer-background.jpg");
     font-size: 16px;
 }
 
