@@ -1,4 +1,8 @@
 /** Global Styling **/
+#jsBottomWrapper{
+    background-image:url("../images/footer-background.jpg");
+    height:20%;
+}
 @font-face {
     font-family: "OpenSans_Regular";
 
