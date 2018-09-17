@@ -44,6 +44,7 @@
 }
 
 .top-wrapper {
+  height: 531px;
       background-image:url( "../images/background-texture-slice.jpg");
    /** background-color: #bababa;**/
     /**background: linear-gradient(to bottom right, #04c2f2, #8fea6b);**/
