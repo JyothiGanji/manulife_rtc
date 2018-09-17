@@ -723,6 +723,9 @@ border-bottom-right-radius: 6%;
 
 .footer__poweredby {
     text-align: center;
+    margin: auto;
+    margin-top: 3%;
+    width:74%
 }
 
 .footer__copyright {
