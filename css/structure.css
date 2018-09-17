@@ -135,7 +135,7 @@ sub {
     display: block;
     overflow: hidden;
     margin: 0 auto;
-    width: 2460px;
+    width: 74%;
     background-image: url("../images/background_tile.jpg");
     background-repeat: no-repeat;
     background-size: cover;
